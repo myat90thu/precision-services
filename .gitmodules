@@ -1,0 +1,3 @@
+[submodule "per_sale_po"]
+	path = per_sale_po
+	url = git@github.com:Sapentia-fg/per_sale_po.git
