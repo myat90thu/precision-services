@@ -1,3 +1,6 @@
 [submodule "per_sale_po"]
 	path = per_sale_po
 	url = git@github.com:Sapentia-fg/per_sale_po.git
+[submodule "conf_line_price"]
+	path = conf_line_price
+	url = git@github.com:Sapentia-fg/conf_line_price.git
